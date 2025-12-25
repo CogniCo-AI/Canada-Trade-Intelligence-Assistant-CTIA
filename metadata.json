@@ -1,0 +1,5 @@
+{
+  "name": "Canada Trade Intelligence Assistant (CTIA)",
+  "description": "An AI-driven multi-agent platform for Global Affairs Canada to automate trade analysis, HS classification, compliance checks, and market intelligence.",
+  "requestFramePermissions": []
+}
